@@ -1,0 +1,6 @@
+{
+  "appId": "com.parentalcontrol.tracker",
+  "appName": "Parental Control",
+  "webDir": "www",
+  "plugins": { "BluetoothLe": { "displayStrings": { "scanning": "Looking for your tracker...", "cancel": "Cancel", "availableDevices": "Available trackers", "noDeviceFound": "No tracker found" } } }
+}
